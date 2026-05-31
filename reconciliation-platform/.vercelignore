@@ -1,0 +1,12 @@
+# Ignore all backend/Python files
+api/
+backend/
+*.py
+requirements.txt
+pyproject.toml
+.python-version
+*.pyc
+__pycache__
+.env
+venv/
+.env.local
